@@ -4,7 +4,7 @@
   "description": "Turn Markdown into dynamic, stateless React components",
   "main": "lib/index.js",
   "scripts": {
-    "prepublish": "babel src --out-dir lib --source-maps inline --ignore \"**/*.spec.js,**/__fixtures__,**/__mocks__\"",
+    "prepare": "babel src --out-dir lib --source-maps inline --ignore \"**/*.spec.js,**/__fixtures__,**/__mocks__\"",
     "test": "jest",
     "build": "yarn prepublish && webpack",
     "start": "webpack-dev-server",
