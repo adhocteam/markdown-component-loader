@@ -1,6 +1,6 @@
 {
-  "name": "markdown-component-loader",
-  "version": "1.1.0",
+  "name": "markdown-component-loader-adhoc",
+  "version": "1.2.0",
   "description": "Turn Markdown into dynamic, stateless React components",
   "main": "lib/index.js",
   "scripts": {
@@ -20,11 +20,11 @@
     "react",
     "jsx"
   ],
-  "homepage": "https://github.com/ticky/markdown-component-loader",
+  "homepage": "https://github.com/adhocteam/markdown-component-loader",
   "bugs": {
-    "url": "https://github.com/ticky/markdown-component-loader/issues"
+    "url": "https://github.com/adhocteam/markdown-component-loader/issues"
   },
-  "repository": "https://github.com/ticky/markdown-component-loader.git",
+  "repository": "https://github.com/adhocteam/markdown-component-loader.git",
   "author": "Jessica Stokes <hello@jessicastokes.net>",
   "license": "MIT",
   "dependencies": {
